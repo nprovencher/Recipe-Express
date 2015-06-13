@@ -1,0 +1,10 @@
+{
+    "AppSettings": {
+        "SiteTitle": "RecipeExpress"
+    },
+    "Data": {
+        "RecipeExpress": {
+            "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-RecipeExpress-d3d1d9cd-a92b-44ba-a481-b4db8ac50013;Trusted_Connection=True;MultipleActiveResultSets=true"
+        }
+    }
+}
